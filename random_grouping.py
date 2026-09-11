@@ -60,3 +60,5 @@ for i, group in enumerate(groups):
     for student in group:
         print(f"{student[0]} {student[1]}")
     print()  # blank line between groups
+
+# github link: https://github.com/cmorcos/SSW540/blob/main/random_grouping.py
