@@ -19,7 +19,7 @@ while low <= high:  # handles rare case where low and high are = to one another 
         print("type correct, higher, or lower") # must be identical to as written here
         answer = input(f"number = {guess}? enter correct, higher, or lower: ")
     if answer == "correct":     # if correct
-        print("correct")
+        print("all done")
         break
     elif answer == "higher":    # if secret is higher
         low = guess + 1
