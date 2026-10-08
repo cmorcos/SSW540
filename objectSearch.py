@@ -8,4 +8,4 @@ for item in objects:    # loop through objects in list
 
 print("Unique objects:", unique_objects)    # print unique objects
 
-# github link: 
+# github link: https://github.com/cmorcos/SSW540/blob/main/objectSearch.py
