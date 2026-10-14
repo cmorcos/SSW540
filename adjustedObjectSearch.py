@@ -1,0 +1,12 @@
+objects = ["apple", "banana", "apple", "orange", "grape", "banana", "kiwi"] # test list including duplicates
+
+unique_objects = [] # list to store uniques
+
+for item in objects:    # loop through objects in list
+    if objects.count(item) == 1:    # check if object only shows up once
+        unique_objects.append(item) # if yes then = unique
+
+print("Unique objects:", unique_objects)    # print unique objects
+print("number of unique objects:", len(unique_objects)) # number of unique objects
+
+# github link: https://github.com/cmorcos/SSW540/blob/main/adjustedObjectSearch.py
