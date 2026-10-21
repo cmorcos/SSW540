@@ -1,4 +1,4 @@
-
+# github link: https://github.com/cmorcos/SSW540/blob/main/week%208%20python%20text%20handling/checkChecks.py
 # string for nums from 0 to 19
 nums = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen",
     "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
