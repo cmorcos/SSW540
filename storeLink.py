@@ -24,4 +24,4 @@ links.sort(key=get_domain)  # sort by domain
 for link in links:
     print(link)
 
-# github link: 
+# github link:
